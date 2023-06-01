@@ -1,0 +1,8 @@
+{
+  "name": "ticketmaster-library",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "description": "A simple library for making HTTP requests."
+}
